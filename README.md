@@ -1,4 +1,4 @@
-# Hi, I'm Jourdyn Coates
+# Hi, I'm Jourdyn Coates!
 
 I'm a Computer Information Systems Technology student at Eastern Florida State College specializing in AI-Enhanced Data Science. I expect to graduate in May 2027.
 
